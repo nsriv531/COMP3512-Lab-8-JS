@@ -1,3 +1,5 @@
+
+const companiesData = `
 [
    {
       "symbol":"AAPL",
@@ -615,4 +617,4 @@
          "sharesOutstanding":290850938
       }
    }
-]
+] `;
